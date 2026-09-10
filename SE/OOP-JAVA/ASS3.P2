@@ -193,36 +193,3 @@ public class Ass3 {
     }
 }
 
-OUTPUT:
-=================================
-     EMPLOYEE SALARY SYSTEM
-=================================
-1. Programmer
-2. Team Lead
-3. Assistant Project Manager
-4. Project Manager
-
-Enter your choice: 1
-
-=================================
-          SALARY SLIP
-=================================
-Designation : Programmer
-Employee ID : 101
-Name        : Amit
-Address     : Pune
-Mail ID     : amit@gmail.com
-Mobile No   : 9876543210
----------------------------------
-Basic Pay   : 30000.0
-DA (97%)    : 29100.0
-HRA (10%)   : 3000.0
----------------------------------
-Gross Salary: 62100.0
----------------------------------
-PF (12%)    : 3600.0
-Staff Fund  : 30.0
----------------------------------
-Total Deduction : 3630.0
-Net Salary     : 58470.0
-=================================
