@@ -78,18 +78,4 @@ public class Complex1 {
         sc.close();
     }
 
-OUTPUT:Enter Real and Imaginary part of First Complex Number:
-230
-52
-Enter Real and Imaginary part of Second Complex Number:
-896
-23
-
-First Complex Number : 230.0 + 52.0i
-Second Complex Number : 896.0 + 23.0i
-Addition : 1126.0 + 75.0i
-Subtraction : -666.0 + 29.0i
-Multiplication : 204884.0 + 51882.0i
-
-
 }
