@@ -110,29 +110,3 @@ public class codemain {
         sc.close();
     }
 }
-
-OUTPUT:
-===== PUBLICATION MANAGEMENT SYSTEM =====
-Enter Book Title: E BALGURUSAMY 
-Enter Book Price: 523
-Enter Book Copies Sold: 5
-Enter Author Name: E BALGURU
-
------ BOOK DETAILS -----
-Title: E BALGURUSAMY 
-Price: 523.0
-Copies Sold: 5
-Author: E BALGURU
-Total Sale: 2615.0
-
-Enter Magazine Title: INDIA TODAY
-Enter Magazine Price: 126
-Enter Magazine Copies Sold: 4
-Enter Issue Number: 3
-
------ MAGAZINE DETAILS -----
-Title: INDIA TODAY
-Price: 126.0
-Copies Sold: 4
-Issue Number: 3
-Total Sale: 504.0
