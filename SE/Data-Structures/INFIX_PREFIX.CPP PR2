@@ -146,11 +146,3 @@ int main()
 
     return 0;
 }
-
-OUTPUT:
-Enter Infix Expression: (A+B)/C*D
-
-Postfix Expression : AB+C/D*
-Prefix Expression : /+AB*CD
-
-=== Code Execution Successful ===
